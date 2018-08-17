@@ -7,8 +7,8 @@
     "dev": "parcel index.html --https",
     "build": "parcel build index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "ui:create": "contentful extension create --space-id ${SPACE_ID}",
-    "ui:update": "contentful extension update --space-id ${SPACE_ID} --force"
+    "ui:create": "contentful extension create",
+    "ui:update": "contentful extension update --force"
   },
   "keywords": [],
   "author": "stefan judis <stefanjudis@gmail.com>",

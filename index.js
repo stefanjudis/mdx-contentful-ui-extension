@@ -4,8 +4,6 @@ import mdx from '@mdx-js/mdx';
 import { MDXTag } from '@mdx-js/tag';
 
 import {
-  FileExplorer,
-  CodeMirror,
   BrowserPreview,
   SandpackProvider
 } from 'react-smooshpack/es/components';
